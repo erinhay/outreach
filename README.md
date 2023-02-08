@@ -1,6 +1,6 @@
 # Resources for Public Engagement in Astronomy
 
-By: Erin Hayes, PhD Candidate at the Institute of Astronomy, University of Cambridge
+By: [Erin Hayes](https://www.ast.cam.ac.uk/people/Erin.Hayes), PhD Candidate at the Institute of Astronomy, University of Cambridge
 
 Additional authors listed by project. Please credit all contributers on a project if you use the resources!
 
