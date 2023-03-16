@@ -4,7 +4,7 @@ By: [Erin Hayes](https://www.ast.cam.ac.uk/people/Erin.Hayes), PhD Candidate at 
 
 Additional authors listed by project. Please credit all contributers on a project if you use the resources!
 
-If any issues or confusion arises while trying to access or use any of the below resources, feel free to contact me at [eeh55@cam.ac.uk](eeh55@cam.ac.uk).
+If any issues or confusion arises while trying to access or use any of the below resources, feel free to contact me at <eeh55@cam.ac.uk>.
 
 ## International Women's Day (IWD) at the IoA
 In celebration of IWD, we developed a coding tutorial on detecting exoplanets via the transit method using real Kepler Space Telescope data. The tutorial particularly highlights the contributions of women to the Kepler mission and the field of exoplanet science. This resource was first developed for students in Year 9 (age 13-14) and the exercises are friendly to students who have no prior coding experience. Thanks to **Erik Rosenberg**, **Steve Young**, **Jessica Rigley**, and **Katherine Kauma** for their help in preparing the IWD educational material!
