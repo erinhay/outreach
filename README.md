@@ -9,7 +9,7 @@ If any issues or confusion arises while trying to access or use any of the below
 ## International Women's Day (IWD) at the IoA
 In celebration of IWD, we developed a coding tutorial on detecting exoplanets via the transit method using real Kepler Space Telescope data. The tutorial particularly highlights the contributions of women to the Kepler mission and the field of exoplanet science. This resource was first developed for students in Year 9 (age 13-14) and the exercises are friendly to students who have no prior coding experience. Thanks to **Erik Rosenberg**, **Steve Young**, **Jessica Rigley**, and **Katherine Kauma** for their help in preparing the IWD educational material!
 
-This resource is in the form of a jupyter notebook. Jupyter notebooks are virtual ``notebook'' environments in which astronomers code. One way of using jupyter notebooks is through Google's coding platform ``Google Colab.'' All the information you need about how to use a notebook in Google Colab is contained within the tutorial. Clicking on the following link will take you directly to a Google Colab page where you can start learning:
+This resource is in the form of a jupyter notebook. Jupyter notebooks are virtual "notebook" environments in which astronomers code. One way of using jupyter notebooks is through Google's coding platform ``Google Colab.'' All the information you need about how to use a notebook in Google Colab is contained within the tutorial. Clicking on the following link will take you directly to a Google Colab page where you can start learning:
 
 [https://githubtocolab.com/erinhay/outreach/blob/main/IWD/IWD_transitingplanets.ipynb](https://githubtocolab.com/erinhay/outreach/blob/main/IWD/IWD_transitingplanets.ipynb)
 
