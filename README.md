@@ -7,11 +7,15 @@ Additional authors listed by project. Please credit all contributers on a projec
 If any issues or confusion arises while trying to access or use any of the below resources, feel free to contact me at <eeh55@cam.ac.uk>.
 
 ## Discovering Exoplanets Through Coding
-### International Women's Day (IWD) at the IoA
-In celebration of IWD, we developed a coding tutorial on detecting exoplanets via the transit method using real Kepler Space Telescope data. The tutorial particularly highlights the contributions of women to the Kepler mission and the field of exoplanet science. This resource was first developed for students in Year 9 (age 13-14) and the exercises are friendly to students who have no prior coding experience. Thanks to **Erik Rosenberg**, **Steve Young**, **Jessica Rigley**, and **Katherine Kauma** for their help in preparing the IWD educational material!
 
-This resource is in the form of a jupyter notebook. Jupyter notebooks are virtual "notebook" environments in which astronomers code. One way of using jupyter notebooks is through Google's coding platform "Google Colab." All the information you need about how to use a notebook in Google Colab is contained within the tutorial. Clicking on the following link will take you directly to a Google Colab page where you can start learning:
+We developed a series of coding tutorials that introduce students to exoplanet detection using real Kepler Space Telescope data. Two levels of the tutorial have been developed to accomodate 1) students with little to no physics/coding experience, and 2) students with experience in physics and little to no coding experience. Students will be guided through how to identify the presence of exoplanets around stars via the transit method, and explore the diversity of exoplanets orbiting around other stars.
 
+These resources are available in the form of jupyter notebooks. Jupyter notebooks are virtual "notebook" environments in which astronomers code. One way of using jupyter notebooks is through Google's coding platform "Google Colab." All the information you need about how to use a notebook in Google Colab is contained within the tutorials. To access the notebook via Google Colab, click the link listed under the level of interest below!
+
+### Year 8-9 / Ages 13-15
+The `discovering_exoplanets_IWD.ipynb` notebook (accessible below) was developed for students in Year 9 (age 13-14). The exercises are friendly to students who have no prior coding experience. Thanks to **Erik Rosenberg**, **Steve Young**, **Jessica Rigley**, and **Katherine Kauma** for their help in preparing this material!
+
+Clicking on the following link will take you directly to a Google Colab page where you can start learning:
 [https://githubtocolab.com/erinhay/outreach/blob/main/Discovering-Exoplanets/discovering_exoplanets_IWD.ipynb](https://githubtocolab.com/erinhay/outreach/blob/main/Discovering-Exoplanets/discovering_exoplanets_IWD.ipynb)
 
 [Introductory slides for the notebook can be found here!](https://docs.google.com/presentation/d/1yp81eEi25TsnwC7Tj5q4aTMXgA4wmSRPiMUphiycehQ/edit?usp=sharing)
@@ -48,12 +52,10 @@ from py.helpers import *
 plt.style.use('./style/style.mplstyle')
 ```
 
-### Sutton Trust Computer Science Summer School at Cambridge University
+### Year 12 / Ages 17-18
+The `discovering_exoplanets_SuttonTrust.ipynb` (accessible below) was developed for students in Year 12 (age 17-18) and the exercises are best suited to students with GCSE/high-school level background in physics and some exposure to coding in python (1-2 previous classes), but are friendly to students who have no prior coding experience. Thanks to **Francis Rigby** and **[helper name]** for their help in preparing the materials and presenting it at the summer school!
 
-For the Sutton Trust Summer School hosted by the computer science department at Cambridge, we developed an interactive coding tutorial on detecting exoplanets using real Kepler Space Telescope data. The tutorial guides students through basic computations relating to Kepler's Third Law and plotting exoplanet transits in python. This resource was first developed for students in Year 12 (age 17-18) and the exercises are best suited to students with GCSE/high-school level background in physics and some exposure to coding in python (1-2 previous classes), but are friendly to students who have no prior coding experience. Thanks to **Francis Rigby** and **[helper name]** for their help in preparing the materials and presenting it at the summer school!
-
-This resource is in the form of a jupyter notebook. Jupyter notebooks are virtual "notebook" environments in which astronomers code. One way of using jupyter notebooks is through Google's coding platform "Google Colab." All the information you need about how to use a notebook in Google Colab is contained within the tutorial. Clicking on the following link will take you directly to a Google Colab page where you can start learning:
-
+Clicking on the following link will take you directly to a Google Colab page where you can start learning:
 [https://githubtocolab.com/erinhay/outreach/blob/main/Discovering-Exoplanets/discovering_exoplanets_SuttonTrust.ipynb](https://githubtocolab.com/erinhay/outreach/blob/main/Discovering-Exoplanets/discovering_exoplanets_SuttonTrust.ipynb)
 
 If you would prefer to git clone the repository and run it locally on your device, replace this block of code:
