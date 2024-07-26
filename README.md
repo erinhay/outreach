@@ -6,7 +6,7 @@ Welcome! In this Github repository, you will find a series of tutorials that gui
 
 These resources are available in the form of jupyter notebooks. Jupyter notebooks are virtual "notebook" environments in which astronomers code. One way of using jupyter notebooks is through Google's coding platform "Google Colab." All the information you need about how to use a notebook in Google Colab is contained within the tutorials. To access the notebook via Google Colab, click the link listed under the tutorial of interest below!
 
-Additional authors are listed by project. Please credit all contributers on a project if you use the resources! If any issues or confusion arise while trying to access or use any of the below resources, feel free to contact me at <eeh55@cam.ac.uk>. I'm also happy to hear your feedback to improve the resources!
+Additional authors are listed by project. Please credit all contributers on a project if you use the resources! If any issues or confusion arise while trying to access or use any of the below resources, feel free to contact me at <eeh55@cam.ac.uk>. I'm also happy to hear your feedback to improve the resources! Thanks for joining me in a voyage through the universe!
 
 ### Contents
 * [Disovering Exoplanets Through Coding Tutorials](https://github.com/erinhay/outreach?tab=readme-ov-file#discovering-exoplanets-through-coding)
