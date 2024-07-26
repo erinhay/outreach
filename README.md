@@ -12,7 +12,7 @@ In celebration of IWD, we developed a coding tutorial on detecting exoplanets vi
 
 This resource is in the form of a jupyter notebook. Jupyter notebooks are virtual "notebook" environments in which astronomers code. One way of using jupyter notebooks is through Google's coding platform "Google Colab." All the information you need about how to use a notebook in Google Colab is contained within the tutorial. Clicking on the following link will take you directly to a Google Colab page where you can start learning:
 
-[https://githubtocolab.com/erinhay/outreach/blob/main/Discovering-Exoplanets/IWD_transitingplanets.ipynb](https://githubtocolab.com/erinhay/outreach/blob/main/Discovering-Exoplanets/discovering_exoplanets_IWD.ipynb)
+[https://githubtocolab.com/erinhay/outreach/blob/main/Discovering-Exoplanets/discovering_exoplanets_IWD.ipynb](https://githubtocolab.com/erinhay/outreach/blob/main/Discovering-Exoplanets/discovering_exoplanets_IWD.ipynb)
 
 [Introductory slides for the notebook can be found here!](https://docs.google.com/presentation/d/1yp81eEi25TsnwC7Tj5q4aTMXgA4wmSRPiMUphiycehQ/edit?usp=sharing)
 
