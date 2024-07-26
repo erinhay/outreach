@@ -2,9 +2,11 @@
 
 By: [Erin Hayes](https://www.ast.cam.ac.uk/people/Erin.Hayes), PhD Candidate at the Institute of Astronomy (IoA), University of Cambridge
 
-Additional authors listed by project. Please credit all contributers on a project if you use the resources!
+Welcome! In this Github repository, you will find a series of tutorials that guide students through questions in different areas of astronomy and introduce them to coding. The tutorials span several fields of astronomy from exoplanets to the expanding universe. For some topics, multiple levels of the tutorial have been developed to suit learners of different ages and experiences. All tutorials should take approximately 45 minutes to complete. Thanks for joining me on a voyage through the universe!
 
-If any issues or confusion arises while trying to access or use any of the below resources, feel free to contact me at <eeh55@cam.ac.uk>.
+These resources are available in the form of jupyter notebooks. Jupyter notebooks are virtual "notebook" environments in which astronomers code. One way of using jupyter notebooks is through Google's coding platform "Google Colab." All the information you need about how to use a notebook in Google Colab is contained within the tutorials. To access the notebook via Google Colab, click the link listed under the tutorial of interest below!
+
+Additional authors are listed by project. Please credit all contributers on a project if you use the resources! If any issues or confusion arise while trying to access or use any of the below resources, feel free to contact me at <eeh55@cam.ac.uk>. I'm also happy to hear your feedback to improve the resources!
 
 ### Contents
 * [Disovering Exoplanets Through Coding Tutorials](https://github.com/erinhay/outreach?tab=readme-ov-file#discovering-exoplanets-through-coding)
@@ -17,8 +19,6 @@ If any issues or confusion arises while trying to access or use any of the below
 ![Kepler](https://github.com/erinhay/outreach/blob/main/Discovering-Exoplanets/images/kepler.jpeg?raw=1)
 
 We developed a series of coding tutorials that introduce students to exoplanet detection using real Kepler Space Telescope data. Two levels of the tutorial have been developed to accomodate 1) students with little to no physics/coding experience, and 2) students with experience in physics and little to no coding experience. Students will be guided through how to identify the presence of exoplanets around stars via the transit method, and explore the diversity of exoplanets orbiting around other stars.
-
-These resources are available in the form of jupyter notebooks. Jupyter notebooks are virtual "notebook" environments in which astronomers code. One way of using jupyter notebooks is through Google's coding platform "Google Colab." All the information you need about how to use a notebook in Google Colab is contained within the tutorials. To access the notebook via Google Colab, click the link listed under the level of interest below!
 
 ### Year 8-9 / Ages 13-15
 
