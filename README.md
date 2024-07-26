@@ -13,9 +13,11 @@ We developed a series of coding tutorials that introduce students to exoplanet d
 These resources are available in the form of jupyter notebooks. Jupyter notebooks are virtual "notebook" environments in which astronomers code. One way of using jupyter notebooks is through Google's coding platform "Google Colab." All the information you need about how to use a notebook in Google Colab is contained within the tutorials. To access the notebook via Google Colab, click the link listed under the level of interest below!
 
 ### Year 8-9 / Ages 13-15
+
 The `discovering_exoplanets_IWD.ipynb` notebook (accessible below) was developed for students in Year 9 (age 13-14). The exercises are friendly to students who have no prior coding experience. Thanks to **Erik Rosenberg**, **Steve Young**, **Jessica Rigley**, and **Katherine Kauma** for their help in preparing this material!
 
 Clicking on the following link will take you directly to a Google Colab page where you can start learning:
+
 [https://githubtocolab.com/erinhay/outreach/blob/main/Discovering-Exoplanets/discovering_exoplanets_IWD.ipynb](https://githubtocolab.com/erinhay/outreach/blob/main/Discovering-Exoplanets/discovering_exoplanets_IWD.ipynb)
 
 [Introductory slides for the notebook can be found here!](https://docs.google.com/presentation/d/1yp81eEi25TsnwC7Tj5q4aTMXgA4wmSRPiMUphiycehQ/edit?usp=sharing)
@@ -53,12 +55,15 @@ plt.style.use('./style/style.mplstyle')
 ```
 
 ### Year 12 / Ages 17-18
+
 The `discovering_exoplanets_SuttonTrust.ipynb` notebook (accessible below) was developed for students in Year 12 (age 17-18) and the exercises are best suited to students with GCSE/high-school level background in physics and some exposure to coding in python (1-2 previous classes), but are friendly to students who have no prior coding experience. Thanks to **Francis Rigby** and **[helper name]** for their help in preparing the materials and presenting it at the summer school!
 
 Clicking on the following link will take you directly to a Google Colab page where you can start learning:
+
 [https://githubtocolab.com/erinhay/outreach/blob/main/Discovering-Exoplanets/discovering_exoplanets_SuttonTrust.ipynb](https://githubtocolab.com/erinhay/outreach/blob/main/Discovering-Exoplanets/discovering_exoplanets_SuttonTrust.ipynb)
 
 Solutions for the activities can be found here:
+
 [https://github.com/erinhay/outreach/tree/main/Discovering-Exoplanets/discovering_exoplanets_SuttonTrust_solutions.ipynb](https://github.com/erinhay/outreach/tree/main/Discovering-Exoplanets/discovering_exoplanets_SuttonTrust_solutions.ipynb)
 
 If you would prefer to git clone the repository and run it locally on your device, replace this block of code:
