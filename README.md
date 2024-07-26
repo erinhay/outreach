@@ -6,6 +6,11 @@ Additional authors listed by project. Please credit all contributers on a projec
 
 If any issues or confusion arises while trying to access or use any of the below resources, feel free to contact me at <eeh55@cam.ac.uk>.
 
+## Contents
+1. [Disovering Exoplanets Through Coding](https://github.com/erinhay/outreach?tab=readme-ov-file#discovering-exoplanets-through-coding)
+*  [Year 8-9 / Ages 13-15](https://github.com/erinhay/outreach?tab=readme-ov-file#year-8-9--ages-13-15)
+*  [Year 12 / Ages 17-18](https://github.com/erinhay/outreach?tab=readme-ov-file#year-12--ages-17-18)
+
 ## Discovering Exoplanets Through Coding
 
 ![Kepler](https://github.com/erinhay/outreach/blob/main/Discovering-Exoplanets/images/kepler.jpeg?raw=1)
