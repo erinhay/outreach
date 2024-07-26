@@ -12,7 +12,7 @@ In celebration of IWD, we developed a coding tutorial on detecting exoplanets vi
 
 This resource is in the form of a jupyter notebook. Jupyter notebooks are virtual "notebook" environments in which astronomers code. One way of using jupyter notebooks is through Google's coding platform "Google Colab." All the information you need about how to use a notebook in Google Colab is contained within the tutorial. Clicking on the following link will take you directly to a Google Colab page where you can start learning:
 
-[https://githubtocolab.com/erinhay/outreach/blob/main/IWD/IWD_transitingplanets.ipynb](https://githubtocolab.com/erinhay/outreach/blob/main/IWD/IWD_transitingplanets.ipynb)
+[https://githubtocolab.com/erinhay/outreach/blob/main/Discovering-Exoplanets/IWD_transitingplanets.ipynb](https://githubtocolab.com/erinhay/outreach/blob/main/Discovering-Exoplanets/discovering_exoplanets_IWD.ipynb)
 
 [Introductory slides for the notebook can be found here!](https://docs.google.com/presentation/d/1yp81eEi25TsnwC7Tj5q4aTMXgA4wmSRPiMUphiycehQ/edit?usp=sharing)
 
@@ -25,7 +25,7 @@ If you would prefer to git clone the repository and run it locally on your devic
 !pip install lightkurve > /dev/null 2>&1 
 
 import os
-os.chdir('/content/outreach/IWD/py')
+os.chdir('/content/outreach/Discovering-Exoplanets/py')
 from helpers import *
 import lightkurve as lk
 
@@ -33,7 +33,7 @@ from google.colab import output
 output.enable_custom_widget_manager()
 %matplotlib widget
 
-os.chdir('/content/outreach/IWD/')
+os.chdir('/content/outreach/Discovering-Exoplanets')
 plt.style.use('./style/style.mplstyle')
 ```
 
@@ -50,13 +50,11 @@ plt.style.use('./style/style.mplstyle')
 
 ### Sutton Trust Computer Science Summer School at Cambridge University
 
-For the Sutton Trust Summer School hosted by the computer science department at Cambridge, we developed an interactive coding tutorial on detecting exoplanets using real Kepler Space Telescope data. The tutorial guides students through basic computations relating to Kepler's Third Law and plotting exoplanet transits in python. This resource was first developed for students in Year 12 (age 17-18) and the exercises are best suited to students with GCSE/high-school level background in physics and some exposure to coding in python (1-2 previous classes), but are friendly to students who have no prior coding experience. Thanks to **Francis Rigby** and **[helper name]** for their help in preparing the educational material and presenting it at the summer school!
+For the Sutton Trust Summer School hosted by the computer science department at Cambridge, we developed an interactive coding tutorial on detecting exoplanets using real Kepler Space Telescope data. The tutorial guides students through basic computations relating to Kepler's Third Law and plotting exoplanet transits in python. This resource was first developed for students in Year 12 (age 17-18) and the exercises are best suited to students with GCSE/high-school level background in physics and some exposure to coding in python (1-2 previous classes), but are friendly to students who have no prior coding experience. Thanks to **Francis Rigby** and **[helper name]** for their help in preparing the materials and presenting it at the summer school!
 
 This resource is in the form of a jupyter notebook. Jupyter notebooks are virtual "notebook" environments in which astronomers code. One way of using jupyter notebooks is through Google's coding platform "Google Colab." All the information you need about how to use a notebook in Google Colab is contained within the tutorial. Clicking on the following link will take you directly to a Google Colab page where you can start learning:
 
-[https://githubtocolab.com/erinhay/outreach/blob/main/]()
-
-[Introductory slides for the notebook can be found here!]()
+[https://githubtocolab.com/erinhay/outreach/blob/main/Discovering-Exoplanets/discovering_exoplanets_SuttonTrust.ipynb](https://githubtocolab.com/erinhay/outreach/blob/main/Discovering-Exoplanets/discovering_exoplanets_SuttonTrust.ipynb)
 
 If you would prefer to git clone the repository and run it locally on your device, replace this block of code:
 
