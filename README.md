@@ -2,7 +2,7 @@
 
 By: [Erin Hayes](https://www.ast.cam.ac.uk/people/Erin.Hayes), PhD Candidate at the Institute of Astronomy (IoA), University of Cambridge
 
-Welcome! In this Github repository, you will find a series of tutorials that guide students through questions in different areas of astronomy and introduce them to coding. The tutorials span several fields of astronomy from exoplanets to the expanding universe. For some topics, multiple levels of the tutorial have been developed to suit learners of different ages and experiences. All tutorials should take approximately 45 minutes to complete. Thanks for joining me on a voyage through the universe!
+Welcome! In this Github repository, you will find a series of tutorials that guide students through questions in different areas of astronomy and introduce them to coding. The tutorials span several fields of astronomy from exoplanets to the expanding universe. For some topics, multiple levels of the tutorial have been developed to suit learners of different ages and experiences. All tutorials should take approximately 45 minutes to complete.
 
 These resources are available in the form of jupyter notebooks. Jupyter notebooks are virtual "notebook" environments in which astronomers code. One way of using jupyter notebooks is through Google's coding platform "Google Colab." All the information you need about how to use a notebook in Google Colab is contained within the tutorials. To access the notebook via Google Colab, click the link listed under the tutorial of interest below!
 
