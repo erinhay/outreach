@@ -58,6 +58,9 @@ The `discovering_exoplanets_SuttonTrust.ipynb` notebook (accessible below) was d
 Clicking on the following link will take you directly to a Google Colab page where you can start learning:
 [https://githubtocolab.com/erinhay/outreach/blob/main/Discovering-Exoplanets/discovering_exoplanets_SuttonTrust.ipynb](https://githubtocolab.com/erinhay/outreach/blob/main/Discovering-Exoplanets/discovering_exoplanets_SuttonTrust.ipynb)
 
+Solutions for the activities can be found here:
+[https://github.com/erinhay/outreach/tree/main/Discovering-Exoplanets/discovering_exoplanets_SuttonTrust_solutions.ipynb](https://github.com/erinhay/outreach/tree/main/Discovering-Exoplanets/discovering_exoplanets_SuttonTrust_solutions.ipynb)
+
 If you would prefer to git clone the repository and run it locally on your device, replace this block of code:
 
 ```
