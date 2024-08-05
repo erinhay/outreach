@@ -64,7 +64,7 @@ plt.style.use('./style/style.mplstyle')
 
 ### Year 12 / Ages 17-18
 
-The `discovering_exoplanets_SuttonTrust.ipynb` notebook (accessible below) was developed for students in Year 12 (age 17-18) and the exercises are best suited to students with GCSE/high-school level background in physics and some exposure to coding in python (1-2 previous classes), but are friendly to students who have no prior coding experience. Thanks to **Francis Rigby** and **[helper name]** for their help in preparing the materials and presenting it at the summer school!
+The `discovering_exoplanets_SuttonTrust.ipynb` notebook (accessible below) was developed for students in Year 12 (age 17-18) and the exercises are best suited to students with GCSE/high-school level background in physics and some exposure to coding in python (1-2 previous classes), but are friendly to students who have no prior coding experience. Thanks to **Frances Rigby** and **Richard Anslow** for their help in preparing the materials and presenting it at the summer school!
 
 Clicking on the following link will take you directly to a Google Colab page where you can start learning:
 
