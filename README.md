@@ -130,16 +130,19 @@ The `exploring_the_expanding_universe_RSHC.ipynb` notebook (accessible below) wa
 If you would prefer to git clone the repository and run it locally on your device, replace this block of code:
 
 ```
+from google.colab import output
+output.enable_custom_widget_manager()
+%matplotlib widget
+
 !git clone https://github.com/erinhay/outreach.git
 !pip install ipympl
 !pip install astropy
 !pip install sncosmo
 
-from py.helpers import *
-
-from google.colab import output
-output.enable_custom_widget_manager()
-%matplotlib widget
+import os
+os.chdir('/content/outreach/Exploring-the-Expanding-Universe/py')
+from helpers import *
+os.chdir('/content/outreach/Exploring-the-Expanding-Universe')
 
 plt.style.use('./style/style.mplstyle')
 ```
