@@ -114,4 +114,34 @@ plt.style.use('./style/style.mplstyle')
 
 ## Exploring the Expanding Universe
 
-Tutorials coming soon!
+![Hubble](https://github.com/erinhay/outreach/blob/main/Exploring-the-Expanding-Universe/images/hubble-space-telescope.jpeg)
+
+If you would prefer to git clone the repository and run it locally on your device, replace this block of code:
+
+```
+!git clone https://github.com/erinhay/outreach.git
+!pip install ipympl
+!pip install astropy
+!pip install sncosmo
+
+from py.helpers import *
+
+from google.colab import output
+output.enable_custom_widget_manager()
+%matplotlib widget
+
+plt.style.use('./style/style.mplstyle')
+```
+
+with the following:
+
+```
+!pip install ipympl
+!pip install astropy
+!pip install sncosmo
+
+from py.helpers import *
+
+%matplotlib notebook
+plt.style.use('./style/style.mplstyle')
+```
