@@ -12,8 +12,8 @@ Additional authors are listed by project. Please credit all contributers on a pr
 * [Discovering Exoplanets Through Coding Tutorials](https://github.com/erinhay/outreach?tab=readme-ov-file#discovering-exoplanets-through-coding)
   *  [Year 8-10 / 7th-9th Grade / Ages 13-15](https://github.com/erinhay/outreach#year-8-10--7th-9th-grade--ages-13-15)
   *  [Year 12-13 / 11th-12th Grade / Ages 16-18](https://github.com/erinhay/outreach#year-12-13--11th-12th-grade--ages-16-18)
-* [Exploring the Expanding Universe Tutorials](https://github.com/erinhay/outreach/blob/main/README.md#exploring-the-expanding-universe)
-  * [Year 7-9 / 6-8th Grade / Ages 11-14](https://github.com/erinhay/outreach#year-12-13--11th-12th-grade--ages-16-18)
+* [Exploring the Expanding Universe With Supernovae Tutorials](https://github.com/erinhay/outreach#exploring-the-expanding-universe-with-supernovae)
+  * [Year 7-9 / 6-8th Grade / Ages 11-14](https://github.com/erinhay/outreach#year-7-9--6th-8th-grade--ages-11-14)
 
 ## Discovering Exoplanets Through Coding
 
@@ -113,7 +113,7 @@ import lightkurve as lk
 plt.style.use('./style/style.mplstyle')
 ```
 
-## Exploring the Expanding Universe
+## Exploring the Expanding Universe with Supernovae
 
 ![Hubble](https://github.com/erinhay/outreach/blob/main/Exploring-the-Expanding-Universe/images/hubble-space-telescope.jpeg)
 
