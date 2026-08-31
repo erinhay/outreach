@@ -10,9 +10,10 @@ Additional authors are listed by project. Please credit all contributers on a pr
 
 ### Contents
 * [Disovering Exoplanets Through Coding Tutorials](https://github.com/erinhay/outreach?tab=readme-ov-file#discovering-exoplanets-through-coding)
-  *  [Year 8-9 / Ages 13-15](https://github.com/erinhay/outreach?tab=readme-ov-file#year-8-9--ages-13-15)
+  *  [Year 8-10 / Ages 13-15](https://github.com/erinhay/outreach?tab=readme-ov-file#year-8-10--ages-13-15)
   *  [Year 12 / Ages 17-18](https://github.com/erinhay/outreach?tab=readme-ov-file#year-12--ages-17-18)
-* [Exploring the Expanding Universe Tutorials](https://github.com/erinhay/outreach/blob/main/README.md#exploring-the-expanding-universe) -- Coming Soon!
+* [Exploring the Expanding Universe Tutorials](https://github.com/erinhay/outreach/blob/main/README.md#exploring-the-expanding-universe)
+  * [Year 7-9 / Ages 11-14](https://github.com/erinhay/outreach?tab=readme-ov-file#year-8-10--ages-13-15)
 
 ## Discovering Exoplanets Through Coding
 
@@ -20,7 +21,7 @@ Additional authors are listed by project. Please credit all contributers on a pr
 
 We developed a series of coding tutorials that introduce students to exoplanet detection using real Kepler Space Telescope data. Two levels of the tutorial have been developed to accomodate 1) students with little to no physics/coding experience, and 2) students with experience in physics and little to no coding experience. Students will be guided through how to identify the presence of exoplanets around stars via the transit method, and explore the diversity of exoplanets orbiting around other stars.
 
-### Year 8-9 / Ages 13-15
+### Year 8-10 / 7th-9th Grade / Ages 13-15
 
 The `discovering_exoplanets_IWD.ipynb` notebook (accessible below) was developed for students in Year 9 (age 13-14). The exercises are friendly to students who have no prior coding experience. Thanks to **Erik Rosenberg**, **Steve Young**, **Jessica Rigley**, and **Katherine Kauma** for their help in preparing this material!
 
@@ -62,7 +63,7 @@ from py.helpers import *
 plt.style.use('./style/style.mplstyle')
 ```
 
-### Year 12 / Ages 17-18
+### Year 12-13 / 11th-12th Grade / Ages 16-18
 
 The `discovering_exoplanets_SuttonTrust.ipynb` notebook (accessible below) was developed for students in Year 12 (age 17-18) and the exercises are best suited to students with GCSE/high-school level background in physics and some exposure to coding in python (1-2 previous classes), but are friendly to students who have no prior coding experience. Thanks to **Frances Rigby** and **Richard Anslow** for their help in preparing the materials and presenting it at the summer school!
 
@@ -115,6 +116,16 @@ plt.style.use('./style/style.mplstyle')
 ## Exploring the Expanding Universe
 
 ![Hubble](https://github.com/erinhay/outreach/blob/main/Exploring-the-Expanding-Universe/images/hubble-space-telescope.jpeg)
+
+I developed a coding tutorial that introduce students to the study of supernovae using real Hubble Space Telescope data. The tutorial has been developed to accommodate students with little to no physics or coding experience, though students with more experience in physics can also enjoy the activity. Students will be guided through how astronomers use supernovae to understand the temperature and chemical composition of stars, and measure the distances to supernovae to create maps of the universe. By the end of the activity, the students will have recorded the distances to two supernovae observed by Hubble and discovered that the universe is expanding!
+
+### Year 7-9 / 6th-8th Grade / Ages 11-14
+
+The `exploring_the_expanding_universe_RSHC.ipynb` notebook (accessible below) was developed for students in 6th-8th grade (age 11-14). The exercises are friendly to students who have no prior coding experience. Clicking on the following link will take you directly to a Google Colab page where you can start learning:
+
+[https://githubtocolab.com/erinhay/outreach/blob/main/Exploring-the-Expanding-Universe/exploring_the_expanding_universe_RSHC.ipynb](https://githubtocolab.com/erinhay/outreach/blob/main/Exploring-the-Expanding-Universe/exploring_the_expanding_universe_RSHC.ipynb)
+
+[Introductory slides for the notebook can be found here!](https://docs.google.com/presentation/d/18EDUyupzZprRZD9lzUogrThhfc3Ggqpzxv3PLLEvt8o/edit?usp=sharing)
 
 If you would prefer to git clone the repository and run it locally on your device, replace this block of code:
 
