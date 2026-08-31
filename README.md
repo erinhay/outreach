@@ -9,17 +9,17 @@ These resources are available in the form of jupyter notebooks. Jupyter notebook
 Additional authors are listed by project. Please credit all contributers on a project if you use the resources! If any issues or confusion arise while trying to access or use any of the below resources, feel free to contact me at <eeh55@cam.ac.uk>. I'm also happy to hear your feedback to improve the resources! Thanks for joining me in a voyage through the universe!
 
 ### Contents
-* [Disovering Exoplanets Through Coding Tutorials](https://github.com/erinhay/outreach?tab=readme-ov-file#discovering-exoplanets-through-coding)
-  *  [Year 8-10 / Ages 13-15](https://github.com/erinhay/outreach?tab=readme-ov-file#year-8-10--ages-13-15)
-  *  [Year 12 / Ages 17-18](https://github.com/erinhay/outreach?tab=readme-ov-file#year-12--ages-17-18)
+* [Discovering Exoplanets Through Coding Tutorials](https://github.com/erinhay/outreach?tab=readme-ov-file#discovering-exoplanets-through-coding)
+  *  [Year 8-10 / 7th-9th Grade / Ages 13-15](https://github.com/erinhay/outreach#year-8-10--7th-9th-grade--ages-13-15)
+  *  [Year 12-13 / 11th-12th Grade / Ages 16-18](https://github.com/erinhay/outreach#year-12-13--11th-12th-grade--ages-16-18)
 * [Exploring the Expanding Universe Tutorials](https://github.com/erinhay/outreach/blob/main/README.md#exploring-the-expanding-universe)
-  * [Year 7-9 / Ages 11-14](https://github.com/erinhay/outreach?tab=readme-ov-file#year-8-10--ages-13-15)
+  * [Year 7-9 / 6-8th Grade / Ages 11-14](https://github.com/erinhay/outreach#year-12-13--11th-12th-grade--ages-16-18)
 
 ## Discovering Exoplanets Through Coding
 
 ![Kepler](https://github.com/erinhay/outreach/blob/main/Discovering-Exoplanets/images/kepler.jpeg?raw=1)
 
-We developed a series of coding tutorials that introduce students to exoplanet detection using real Kepler Space Telescope data. Two levels of the tutorial have been developed to accomodate 1) students with little to no physics/coding experience, and 2) students with experience in physics and little to no coding experience. Students will be guided through how to identify the presence of exoplanets around stars via the transit method, and explore the diversity of exoplanets orbiting around other stars.
+We developed a series of coding tutorials that introduce students to exoplanet detection using real Kepler Space Telescope data. Two levels of the tutorial have been developed to accommodate 1) students with little to no physics/coding experience, and 2) students with experience in physics and little to no coding experience. Students will be guided through how to identify the presence of exoplanets around stars via the transit method, and explore the diversity of exoplanets orbiting around other stars.
 
 ### Year 8-10 / 7th-9th Grade / Ages 13-15
 
