@@ -156,6 +156,6 @@ with the following:
 
 from py.helpers import *
 
-%matplotlib notebook
+%matplotlib widget
 plt.style.use('./style/style.mplstyle')
 ```
